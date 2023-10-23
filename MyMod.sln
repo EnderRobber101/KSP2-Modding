@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{04FEC7EC-F3A2-4C7F-9B36-361EBDC8A8B4}") = "MyMod", "src/MyMod/MyMod.csproj", "{8AABE90E-5FC0-496C-B985-DBE2250F45FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Deploy|Any CPU = Deploy|Any CPU
+		DeployAndRun|Any CPU = DeployAndRun|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AABE90E-5FC0-496C-B985-DBE2250F45FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AABE90E-5FC0-496C-B985-DBE2250F45FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AABE90E-5FC0-496C-B985-DBE2250F45FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AABE90E-5FC0-496C-B985-DBE2250F45FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AABE90E-5FC0-496C-B985-DBE2250F45FC}.Deploy|Any CPU.ActiveCfg = Deploy|Any CPU
+		{8AABE90E-5FC0-496C-B985-DBE2250F45FC}.Deploy|Any CPU.Build.0 = Deploy|Any CPU
+		{8AABE90E-5FC0-496C-B985-DBE2250F45FC}.DeployAndRun|Any CPU.ActiveCfg = DeployAndRun|Any CPU
+		{8AABE90E-5FC0-496C-B985-DBE2250F45FC}.DeployAndRun|Any CPU.Build.0 = DeployAndRun|Any CPU
+	EndGlobalSection
+EndGlobal
